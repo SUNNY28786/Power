@@ -53,7 +53,7 @@ h6 {
     display: flex;
     padding-bottom: 15px;
 }
-.inner-heading 
+.inner-heading
 {
     text-align: center;
 }
@@ -101,7 +101,7 @@ h6 {
 
 .rwd-table td:first-child {
   margin-top: .5em;
- 
+
 }
 
 .rwd-table td:last-child {
@@ -1804,7 +1804,7 @@ img {
 .pagination-area ul li {
   margin: 0 14px 0 0;
 }
-.pagination-area ul li:last-child(1) {
+.pagination-area ul li:last-child {
   margin: 0;
 }
 .pagination-area ul li a {
@@ -17868,7 +17868,7 @@ img {
   z-index: 1;
 }
 .cta4-aection-area .cta-bg-area .cta-heading {
-  
+
 }
 @media (max-width: 767px) {
   .cta4-aection-area .cta-bg-area .cta-heading {
@@ -19582,7 +19582,7 @@ img {
   display: inline-block;
   margin: 0 12px 0 0;
 }
-.testimonial7 .testimonial7-images ul li:last-child(1) {
+.testimonial7 .testimonial7-images ul li:last-child{
   margin: 0;
 }
 .testimonial7 .testimonial7-images ul li a {
@@ -23923,14 +23923,14 @@ img {
     margin-top: 30px;
   }
 
-  
+
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .choose-about-area .tab-content .tab-pane .img1 {
     margin-top: 30px;
   }
 
- 
+
 }
 .choose-about-area .tab-content .tab-pane .img1 img {
   height: 100%;
@@ -23943,7 +23943,7 @@ img {
 
 /***************************************************/
 
-@media (max-width: 768px) 
+@media (max-width: 768px)
 {
 
 .image_secc {
@@ -23985,7 +23985,7 @@ img {
     background: #3d2b99;
 }
 
-.hero8-area img 
+.hero8-area img
 {
     display: none;
 }
@@ -24182,7 +24182,7 @@ img {
 }
 
 .mv-heading h2 {
-    
+
     font-size: 38px;
     line-height: 1.25;
     font-weight: 800;
@@ -24227,14 +24227,14 @@ img {
     align-items: center;
     justify-content: center;
     background: #3d2b99;
-    
+
     border-radius: 15px;
     font-size: 27px;
 }
 
 .mv-label {
     display: block;
-    
+
     font-size: 11px;
     font-weight: 800;
     letter-spacing: 1.5px;
@@ -24327,7 +24327,7 @@ img {
 .mv-divider {
     width: 60px;
     height: 3px;
-   
+
     margin: 25px 0;
 }
 
@@ -24342,7 +24342,7 @@ img {
 }
 
 .mv-vision-highlight > i {
-    
+
     font-size: 24px;
     margin-top: 4px;
 }
