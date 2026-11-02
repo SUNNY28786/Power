@@ -4,8 +4,8 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 
 // Apne project ke hisaab se path adjust karein
-import Header from "../components/Header";
-import Footer from "../components/Footer";
+import Header from "./Header";
+import Footer from "./Footer";
 
 /* ---------- Reusable icon (SVG 3 jagah repeat tha) ---------- */
 const SectionIcon = ({ color = "#fff" }) => (
