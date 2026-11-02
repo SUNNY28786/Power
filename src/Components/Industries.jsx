@@ -17,7 +17,7 @@ export default function Industries() {
             <div
                 className="inner-header-area"
                 style={{
-                    backgroundImage: "url('./src/assets/img/vtpl–electrical-itand-green-energy.webp)",
+                    backgroundImage: "url('./src/assets/img/vtpl-electrical-it-and-green-energy.webp)",
                     backgroundPosition: "center",
                     backgroundRepeat: "no-repeat",
                     backgroundSize: "cover",

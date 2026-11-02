@@ -96,7 +96,7 @@ function vptl() {
                             data-aos-duration="900"
                         >
                             <img
-                                src="./src/assets/img/vtpl–electrical-itand-green-energy.webp"
+                                src="./src/assets/img/vtpl-electrical-it-and-green-energy.webp"
                                 className="img-fluid rounded"
                                 alt="VTPL Electrical, IT and Green Energy"
                             />

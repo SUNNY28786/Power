@@ -101,7 +101,7 @@ function Industrial() {
                             data-aos-duration="900"
                         >
                             <img
-                                src="/assets/img/vppl–infrastructure-and-industrial-solutions.webp"
+                                src="/assets/img/vppl-infrastructure-and-industrial-solutions.webp"
                                 className="img-fluid rounded"
                                 alt="VPPL Infrastructure and Industrial Solutions"
                             />
